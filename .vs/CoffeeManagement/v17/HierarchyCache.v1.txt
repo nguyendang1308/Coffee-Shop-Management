@@ -1,0 +1,267 @@
+﻿++Solution 'CoffeeManagement' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:CoffeeManagement.sln
+++CoffeeManagement
+i:{00000000-0000-0000-0000-000000000000}:CoffeeManagement
+++Connected Services
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\connected services\
+++Properties
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\properties\
+++AssemblyInfo.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\properties\assemblyinfo.cs
+++licenses.licx
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\properties\licenses.licx
+++Resources.resx
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\properties\resources.resx
+++Settings.settings
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\properties\settings.settings
+++References
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:
+++DataAccessObject
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\dataaccessobject\
+++AccountDAO.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\dataaccessobject\accountdao.cs
+++CategoryDAO.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\dataaccessobject\categorydao.cs
+++DataAccess.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\dataaccessobject\dataaccess.cs
+++FoodDAO.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\dataaccessobject\fooddao.cs
+++MenuDAO.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\dataaccessobject\menudao.cs
+++ReceiptDAO.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\dataaccessobject\receiptdao.cs
+++ReceiptInfoDAO.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\dataaccessobject\receiptinfodao.cs
+++TableDAO.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\dataaccessobject\tabledao.cs
+++DataTransferObject
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\datatransferobject\
+++AccountAuthentication.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\datatransferobject\accountauthentication.cs
+++Category.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\datatransferobject\category.cs
+++Food.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\datatransferobject\food.cs
+++Menu.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\datatransferobject\menu.cs
+++Receipt.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\datatransferobject\receipt.cs
+++ReceiptInfo.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\datatransferobject\receiptinfo.cs
+++Table.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\datatransferobject\table.cs
+++Resources
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\resources\
+++account.png
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\resources\account.png
+++add.png
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\resources\add.png
+++category.png
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\resources\category.png
+++close.png
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\resources\close.png
+++Coffee-logo.png
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\resources\coffee-logo.png
+++dashboard.png
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\resources\dashboard.png
+++delete.png
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\resources\delete.png
+++edit.png
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\resources\edit.png
+++employee.png
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\resources\employee.png
+++management.png
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\resources\management.png
+++menu.png
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\resources\menu.png
+++MIT-Web-Loading.jpg
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\resources\mit-web-loading.jpg
+++padlock.png
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\resources\padlock.png
+++personal-info.png
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\resources\personal-info.png
+++profile.png
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\resources\profile.png
+++report.png
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\resources\report.png
+++reset.png
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\resources\reset.png
+++revenue.png
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\resources\revenue.png
+++search.png
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\resources\search.png
+++table-96.png
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\resources\table-96.png
+++table.png
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\resources\table.png
+++user.png
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\resources\user.png
+++view.png
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\resources\view.png
+++SqlServerTypes
+++AccountEvent.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\accountevent.cs
+++App.config
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\app.config
+++CoffeeShopDataSet21.xsd
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\coffeeshopdataset21.xsd
+++CoffeeShopDataSet21.Designer.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\coffeeshopdataset21.designer.cs
+++CoffeeShopDataSet21.xsc
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\coffeeshopdataset21.xsc
+++CoffeeShopDataSet21.xss
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\coffeeshopdataset21.xss
+++ControlCategory.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\controlcategory.cs
+++ControlDashboard.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\controldashboard.cs
+++ControlEmployee.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\controlemployee.cs
+++ControlMenu.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\controlmenu.cs
+++ControlRevenue.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\controlrevenue.cs
+++ControlTable.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\controltable.cs
+++Currency.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\currency.cs
+++fLogin.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\flogin.cs
+++IControl.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\icontrol.cs
+++IElementModify.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\ielementmodify.cs
+++Model1.edmx
+++packages.config
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\packages.config
+++Program.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\program.cs
+++RadForm1.cs
+++RadForm1.Designer.cs
+++RadForm1.resx
+++Resources.Designer.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\properties\resources.designer.cs
+++Settings.Designer.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\properties\settings.designer.cs
+++BCrypt.Net
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:
+++DevExpress.Charts.v21.2.Core
+++DevExpress.CodeParser.v21.2
+++DevExpress.Data.Desktop.v21.2
+++DevExpress.Data.v21.2
+++DevExpress.DataAccess.v21.2
+++DevExpress.DataAccess.v21.2.UI
+++DevExpress.Diagram.v21.2.Core
+++DevExpress.ExpressApp.v21.2
+++DevExpress.Images.v21.2
+++DevExpress.Office.v21.2.Core
+++DevExpress.Pdf.v21.2.Core
+++DevExpress.Pdf.v21.2.Drawing
+++DevExpress.Persistent.Base.v21.2
+++DevExpress.PivotGrid.v21.2.Core
+++DevExpress.Printing.v21.2.Core
+++DevExpress.RichEdit.v21.2.Core
+++DevExpress.RichEdit.v21.2.Export
+++DevExpress.Sparkline.v21.2.Core
+++DevExpress.Utils.v21.2
+++DevExpress.Utils.v21.2.UI
+++DevExpress.Xpo.v21.2
+++DevExpress.XtraBars.v21.2
+++DevExpress.XtraCharts.v21.2
+++DevExpress.XtraCharts.v21.2.Extensions
+++DevExpress.XtraCharts.v21.2.Wizard
+++DevExpress.XtraDiagram.v21.2
+++DevExpress.XtraEditors.v21.2
+++DevExpress.XtraGauges.v21.2.Core
+++DevExpress.XtraGrid.v21.2
+++DevExpress.XtraLayout.v21.2
+++DevExpress.XtraNavBar.v21.2
+++DevExpress.XtraPivotGrid.v21.2
+++DevExpress.XtraPrinting.v21.2
+++DevExpress.XtraReports.v21.2
+++DevExpress.XtraReports.v21.2.CodeCompletion
+++DevExpress.XtraReports.v21.2.Extensions
+++DevExpress.XtraRichEdit.v21.2
+++DevExpress.XtraTreeList.v21.2
+++DevExpress.XtraVerticalGrid.v21.2
+++EntityFramework
+++EntityFramework.SqlServer
+++Microsoft.CSharp
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:
+++NuGet.Frameworks
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:
+++System
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:
+++System.ComponentModel.DataAnnotations
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:
+++System.Configuration
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:
+++System.Core
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:
+++System.Data
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:
+++System.Data.DataSetExtensions
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:
+++System.Data.OracleClient
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:
+++System.Deployment
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:
+++System.Design
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:
+++System.Drawing
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:
+++System.Drawing.Design
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:
+++System.Management
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:
+++System.Net.Http
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:
+++System.Runtime.Serialization
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:
+++System.Security
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:
+++System.Web.Extensions
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:
+++System.Web.Services
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:
+++System.Windows.Forms
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:
+++System.Xml
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:
+++System.Xml.Linq
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:
+++Telerik.WinControls
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:
+++Telerik.WinControls.GridView
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:
+++Telerik.WinControls.Themes.Fluent
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:
+++Telerik.WinControls.UI
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:
+++TelerikCommon
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:
+++x64
+++x86
+++Loader.cs
+++readme.htm
+++fLogin.Designer.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\flogin.designer.cs
+++fLogin.resx
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\flogin.resx
+++Model1.Context.tt
+++Model1.Designer.cs
+++Model1.edmx.diagram
+++Model1.tt
+++msvcr120.dll
+++SqlServerSpatial140.dll
+++Model1.Context.cs
+++Account.cs
+++Model1.cs
+++ClassDiagram2.cd
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\classdiagram2.cd
+++RadForm.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\radform.cs
+++RadForm.Designer.cs
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\radform.designer.cs
+++RadForm.resx
+i:{ac9e4ab3-22ed-4de4-b75f-35856f6c1812}:c:\users\hi there\desktop\coffee-management\login\radform.resx
